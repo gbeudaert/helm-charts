@@ -109,7 +109,7 @@ extraEnv: |
   - name: DB_VENDOR
     value: postgres
   - name: DB_ADDR
-    value: kind-terraform-learndb.gitopsdemo-dev.cluster.local
+    value: kind-terraform-learndb.gitopsdemo-dev
   - name: DB_PORT
     value: "5432"
   - name: DB_DATABASE
